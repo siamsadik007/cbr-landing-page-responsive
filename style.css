@@ -1,0 +1,29 @@
+.cbr-banner-bg{
+    background-color: #264653;
+}
+.cbr-btn{
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color:#E76F51 ;
+    width: 168px;
+    height: 44px;
+
+}
+.cbr-red{
+    color: #E76F51;
+}
+.cbr-subscribe-bg{
+    background-color:rgba(255, 99, 71, 0.212) ;
+}
+.bike-grayscale{
+    filter: grayscale(100%);
+}
+.fa-star.filled{
+    color: #E77C40;
+
+    }
+    .fa-star.empty{
+    color: #AEAEAE;
+
+    }
